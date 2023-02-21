@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Jason's Stuff`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Jason Gannon`,
+      summary: `a tech writer trying to keep his tools at hand.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A collection of my stuff in one place`,
+    siteUrl: `https://jasongannon.me`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `redhautepoker`,
     },
   },
   plugins: [
@@ -110,10 +110,10 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Jason's Tools`,
         short_name: `Gatsby`,
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `#f2f2f2`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
