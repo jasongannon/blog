@@ -12,12 +12,12 @@ module.exports = {
     title: `Jason's Stuff`,
     author: {
       name: `Jason Gannon`,
-      summary: `a tech writer trying to keep his tools at hand.`,
+      summary: `a tech writer trying to stay organized.`,
     },
     description: `A collection of my stuff in one place`,
     siteUrl: `https://jasongannon.me`,
     social: {
-      twitter: `redhautepoker`,
+      linkedin: `https://www.linkedin.com/in/jasonmgannon/`,
     },
   },
   plugins: [
