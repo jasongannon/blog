@@ -9,7 +9,7 @@
   },
   "engines": {
     "node": ">=18.14.1"
-  }
+  },
   "dependencies": {
     "@fontsource/merriweather": "^4.5.14",
     "@fontsource/montserrat": "^4.5.14",
